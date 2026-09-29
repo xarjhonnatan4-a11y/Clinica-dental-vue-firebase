@@ -87,7 +87,7 @@ clinica-dental/
 ![Gestion_de_Clientes](screenshots/Gestion_de_Clientes.png)
 
 ### Gestión de pacientes
-![Odontograma y Cardex](screenshots/Odontograma y Cardex.png)
+![Odontograma y Cardex](screenshots/Odontograma_y_Cardex.png)
 
 ### Reporte financiero
 ![Reporte financiero](screenshots/Reportes.png)
