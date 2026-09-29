@@ -60,16 +60,25 @@ El sistema centraliza la información de pacientes, tratamientos con odontograma
 - Comisiones
 - Información para impresión
 
-## Arquitectura
+## Estructura del proyecto
 
 ```text
-Vue.js / PWA
-      │
-      ▼
-Firebase Authentication
-      │
-      ▼
-Cloud Firestore
-      │
-      ▼
-Firebase Cloud Functions
+clinica-dental/
+│
+├── src/
+│   ├── components/
+│   ├── views/
+│   ├── router/
+│   ├── firebase.js
+│   └── main.js
+│
+├── functions/
+│   ├── index.js
+│   └── package.json
+│
+├── public/
+├── firebase.json
+├── package.json
+├── vite.config.js
+└── .env.example
+
