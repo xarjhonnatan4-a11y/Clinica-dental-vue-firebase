@@ -82,7 +82,7 @@ clinica-dental/
 ├── vite.config.js
 └── .env.example
 
-```text
+```
 
 ## Capturas del sistema
 
