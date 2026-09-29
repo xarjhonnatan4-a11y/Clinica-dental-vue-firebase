@@ -84,7 +84,7 @@ clinica-dental/
 
 ## Capturas del sistema
 
-![Gestión de Clientesl](screenshot/Gestion de Clientes.png)
+![Gestion de Clientesl](screenshot/Gestion de Clientes.png)
 
 ### Gestión de pacientes
 ![Odontograma y Cardex](screenshots/Odontograma y Cardex.png)
