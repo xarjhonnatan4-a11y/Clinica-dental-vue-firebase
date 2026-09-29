@@ -82,3 +82,12 @@ clinica-dental/
 ├── vite.config.js
 └── .env.example
 
+## Capturas del sistema
+
+![Gestión de Clientesl](screenshot/Gestion de Clientes.png)
+
+### Gestión de pacientes
+![Odontograma y Cardex](screenshots/Odontograma y Cardex.png)
+
+### Reporte financiero
+![Reporte financiero](screenshots/Reportes.png)
