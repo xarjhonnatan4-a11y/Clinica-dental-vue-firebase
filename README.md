@@ -82,6 +82,8 @@ clinica-dental/
 ├── vite.config.js
 └── .env.example
 
+```text
+
 ## Capturas del sistema
 
 ![Gestion_de_Clientes](screenshots/Gestion_de_Clientes.png)
